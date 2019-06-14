@@ -25,7 +25,7 @@ Sat Jun 1 18:05:42 2019
   remotes/origin/feature/options_management  
   remotes/origin/feature/windows_graphics_probing  
   remotes/origin/stable  
-### Gitstats
+## Gitstats
 ![Gnuplot](Gnuplot.png)
 ## Gource 
 ![Gource](Gource.png)
