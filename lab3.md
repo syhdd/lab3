@@ -1,4 +1,10 @@
-## MultiMC  
+## Part1 Documentation
+# Wiki link
+https://github.com/syhdd/lab3/wiki/lab3-documentation
+# Latex images
+
+## Part2 Community
+# MultiMC  
 # The number of contributors:  
 44
 # Number of lines of code:  
