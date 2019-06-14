@@ -2,7 +2,9 @@
 # Wiki link
 https://github.com/syhdd/lab3/wiki/lab3-documentation
 # Latex images
-
+![Latex1](Latex1.jpg)
+![Latex2](Latex2.jpg)
+![Latex3](Latex3.jpg)
 ## Part2 Community
 # MultiMC  
 # The number of contributors:  
