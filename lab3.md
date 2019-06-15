@@ -5,6 +5,7 @@ https://github.com/syhdd/lab3/wiki/lab3-documentation
 ![Latex1](Latex1.png)
 ![Latex2](Latex2.png)
 ![Latex3](Latex3.png)
+![Latex4](Latex4.png)
 # Part2 Community
 ## Group Work
 ### Observatory
